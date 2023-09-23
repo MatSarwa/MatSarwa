@@ -3,10 +3,12 @@
 🎓 IT Student at Silesian University of Technology  
 💻 Passionate about coding and technology  
 🌐 Web development enthusiast  
-🚀 Exploring new tech and side projects  
-📚 Constantly learning and growing  
+🚀 Always exploring new tech and working on exciting projects  
+📚 Committed to lifelong learning and growth  
 
-[Visit My GitHub Pages Website](https://matsarwa.github.io)
+Welcome to my GitHub! 😊
+
+**I'm on a thrilling journey through the world of web development**, constantly crafting *exciting digital experiences*. Dive into some of my recent projects below:
 
 ## 🛠️ Languages and Tools
 
