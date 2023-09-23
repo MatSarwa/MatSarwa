@@ -9,7 +9,7 @@
 Welcome to my GitHub! 😊
 
 **I'm on a thrilling journey through the world of web development**, constantly crafting *exciting digital experiences*. Dive into some of my recent projects below:
-[Visit My Projects Page](https://matsarwa.github.io)
+[My Projects Page](https://matsarwa.github.io)
 
 
 ## 🛠️ Languages and Tools
