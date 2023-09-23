@@ -52,8 +52,6 @@
 <div align="center">
   <h2>GitHub Activity</h2>
   <p align="center">
-    <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-      <img alt="GitHub Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=MatSarwa&theme=react-dark">
-    </a>
+    <img alt="GitHub Activity" src="https://activity-readme.herokuapp.com/api?username=MatSarwa&bg_color=000000&text_color=FFFFFF&hide_border=true">
   </p>
 </div>
