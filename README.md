@@ -52,6 +52,6 @@
 <div align="center">
   <h2>GitHub Activity</h2>
   <p align="center">
-    <img alt="GitHub Activity" src="https://activity-readme.herokuapp.com/api?username=MatSarwa&bg_color=000000&text_color=FFFFFF&hide_border=true">
+    <img alt="GitHub Activity" src="https://github.com/users/MatSarwa/contributions">
   </p>
 </div>
