@@ -1,4 +1,4 @@
-[![MatSarwa's GitHub Banner](my-folder/banner.png)]
+[![MatSarwa's GitHub Banner](banner.png)]
 
 ---
 
