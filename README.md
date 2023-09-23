@@ -1,7 +1,7 @@
 <div style="position: relative;">
   <img src="https://images.unsplash.com/photo-1635377090186-036bca445c6b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1780&q=80" alt="A Beautiful Landscape" width="100%">
   <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); text-align: center; background-color: rgba(0, 0, 0, 0.6); color: #fff; padding: 20px; border-radius: 5px;">
-    <h2 style="font-size: 24px;">Hi there 👋</h2>
+    <h1 style="font-size: 36px;">Hi there 👋</h1>
     <h1 style="font-size: 36px;">My name is Mateusz</h1>
     <p style="font-size: 18px;">
       🎓 IT Student at Silesian University of Technology<br>
