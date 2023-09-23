@@ -1,17 +1,18 @@
-<div align="center">
-  <h1>Hi there 👋 I'm Mateusz</h1>
-  <p>
+<div align="center" style="background-image: url('URL_TO_YOUR_BACKGROUND_IMAGE'); background-size: cover; padding: 50px;">
+  <h1 style="color: #fff;">Mateusz</h1>
+  <p style="color: #fff; font-size: 18px; font-weight: bold;">Hit Here</p>
+  <p style="color: #fff;">
     🎓 IT Student at Silesian University of Technology<br>
     💻 Passionate about coding and technology<br>
     🌐 Web development enthusiast<br>
     🚀 Always exploring new tech and working on exciting projects<br>
     📚 Committed to lifelong learning and growth
   </p>
-  <p>
+  <p style="color: #fff;">
     I'm passionate about web development and constantly working on exciting projects. Below you'll find some of my recent work.
   </p>
-  <p>
-    <a href="https://matsarwa.github.io" style="font-weight: bold; text-decoration: underline;">Explore My Projects on GitHub</a>
+  <p style="color: #fff;">
+    <a href="https://matsarwa.github.io" style="font-weight: bold; text-decoration: underline; color: #fff;">Explore My Projects on GitHub</a>
   </p>
 </div>
 
