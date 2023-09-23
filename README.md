@@ -49,3 +49,12 @@
     <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatSarwa&layout=compact">
   </p>
 </div>
+
+---
+
+<div align="center">
+  <h2>GitHub Activity</h2>
+  <p align="center">
+    <img alt="GitHub Activity" src="https://github.com/users/MatSarwa/contributions">
+  </p>
+</div>
