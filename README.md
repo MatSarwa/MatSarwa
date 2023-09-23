@@ -11,7 +11,7 @@
     I'm passionate about web development and constantly working on exciting projects. Below you'll find some of my recent work.
   </p>
   <p>
-    <a href="https://matsarwa.github.io">Visit My Projects Page</a>
+    <a href="https://matsarwa.github.io" style="font-weight: bold; text-decoration: underline;">Explore My Projects on GitHub</a>
   </p>
 </div>
 
@@ -46,12 +46,5 @@
   <h2>GitHub Contributions</h2>
   <p align="center">
     <img alt="GitHub Contributions" src="https://github-readme-streak-stats.herokuapp.com/?user=MatSarwa&theme=dark">
-  </p>
-</div>
-
-<div align="center">
-  <h2>GitHub Activity</h2>
-  <p align="center">
-    <img alt="GitHub Activity" src="https://github.com/users/MatSarwa/contributions">
   </p>
 </div>
