@@ -53,8 +53,8 @@
 ---
 
 <div align="center">
-  <h2>GitHub Activity</h2>
+  <h2>GitHub Current Streak</h2>
   <p align="center">
-    <img alt="GitHub Activity" src="https://github.com/users/MatSarwa/contributions">
+    <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=MatSarwa&theme=dark">
   </p>
 </div>
