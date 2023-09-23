@@ -8,10 +8,7 @@
 
 [Visit My GitHub Pages Website](https://matsarwa.github.io)
 
-<details>
-<summary>🛠️ Languages and Tools</summary>
-
-<br/>
+## 🛠️ Languages and Tools
 
 <p align="center">
   <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white">
@@ -21,9 +18,4 @@
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
 </p>
 
-<br/>
-
-</details>
-
 Welcome to my GitHub! 😊
-
