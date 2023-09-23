@@ -1,18 +1,18 @@
-<div align="center" style="background-image: url('URL_TO_YOUR_BACKGROUND_IMAGE'); background-size: cover; padding: 50px;">
-  <h1 style="color: #fff;">Mateusz</h1>
-  <p style="color: #fff; font-size: 18px; font-weight: bold;">Hit Here</p>
-  <p style="color: #fff;">
+<div align="center">
+  <img src="https://images.unsplash.com/photo-1635377090186-036bca445c6b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1780&q=80" alt="A Beautiful Landscape" width="100%">
+  <h1>Hi there 👋 My name is Mateusz</h1>
+  <p>
     🎓 IT Student at Silesian University of Technology<br>
     💻 Passionate about coding and technology<br>
     🌐 Web development enthusiast<br>
     🚀 Always exploring new tech and working on exciting projects<br>
     📚 Committed to lifelong learning and growth
   </p>
-  <p style="color: #fff;">
+  <p>
     I'm passionate about web development and constantly working on exciting projects. Below you'll find some of my recent work.
   </p>
-  <p style="color: #fff;">
-    <a href="https://matsarwa.github.io" style="font-weight: bold; text-decoration: underline; color: #fff;">Explore My Projects on GitHub</a>
+  <p>
+    <a href="https://matsarwa.github.io" style="font-weight: bold; text-decoration: underline;">Explore My Projects on GitHub</a>
   </p>
 </div>
 
