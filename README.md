@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Mateusz
+### Hi there 👋 I'm Mateusz  
 
 🎓 IT Student at Silesian University of Technology  
 💻 Passionate about coding and technology  
