@@ -45,12 +45,29 @@
         <a href="https://www.linkedin.com/in/mateuszsarwa/" style="text-decoration: none;">
             <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge" />
         </a>
-        <a href="mailto:sarwamateusz@proton.me" style="text-decoration: none;">
-            <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge" alt="Email Badge" />
-        </a>
+        <span id="email">
+            <span onclick="copyToClipboard('sarwamateusz@proton.me')" style="cursor: pointer;">sarwamateusz@proton.me</span>
+            <span id="copyStatus" style="display: none;"> (Copied!)</span>
+        </span>
     </div>
+
+    <script>
+        function copyToClipboard(text) {
+            const el = document.createElement('textarea');
+            el.value = text;
+            document.body.appendChild(el);
+            el.select();
+            document.execCommand('copy');
+            document.body.removeChild(el);
+            document.getElementById('copyStatus').style.display = 'inline';
+            setTimeout(function() {
+                document.getElementById('copyStatus').style.display = 'none';
+            }, 1500);
+        }
+    </script>
 </body>
 </html>
+
 
 
 
