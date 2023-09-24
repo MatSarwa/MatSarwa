@@ -30,14 +30,16 @@
     <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
   </p>
 </div>
----
+
 
 <div align="center">
-  <h2>🛠️ Contact me</h2>
-  <p align="center">
-    [![Email Badge](https://img.shields.io/badge/Email-your.email%40example.com-blue)](mailto:your.email@example.com)
-    [![LinkedIn](https://img.shields.io/badge/GitHub-YourGitHubUsername-green)](https://github.com/your-github-username)
-  </p>
+  <h2>Contact Me 📧📱</h2>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-your.email%40example.com-blue" alt="Email Badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/your-linkedin-profile">
+    <img src="https://img.shields.io/badge/LinkedIn-YourLinkedInProfile-blue" alt="LinkedIn Badge" />
+  </a>
 </div>
 
 ---
