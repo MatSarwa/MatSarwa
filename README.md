@@ -50,21 +50,6 @@
             <span id="copyStatus" style="display: none;"> (Copied!)</span>
         </span>
     </div>
-
-    <script>
-        function copyToClipboard(text) {
-            const el = document.createElement('textarea');
-            el.value = text;
-            document.body.appendChild(el);
-            el.select();
-            document.execCommand('copy');
-            document.body.removeChild(el);
-            document.getElementById('copyStatus').style.display = 'inline';
-            setTimeout(function() {
-                document.getElementById('copyStatus').style.display = 'none';
-            }, 1500);
-        }
-    </script>
 </body>
 </html>
 
