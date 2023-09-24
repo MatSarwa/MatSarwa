@@ -32,15 +32,26 @@
 </div>
 
 
-<div align="center">
-  <h2>Contact Me 📧📱</h2>
-  <a href="https://www.linkedin.com/in/mateuszsarwa/" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge" />
-  </a>
-  <span>
-    <img src="https://img.shields.io/badge/Email-sarwamateusz%40proton.me-red?style=for-the-badge" alt="Email Badge" />
-  </span>
-</div>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact Me</title>
+</head>
+<body>
+    <div align="center">
+        <h2>Contact Me 📧📱</h2>
+        <a href="https://www.linkedin.com/in/mateuszsarwa/" style="text-decoration: none;">
+            <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge" />
+        </a>
+        <a href="mailto:sarwamateusz@proton.me" style="text-decoration: none;">
+            <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge" alt="Email Badge" />
+        </a>
+    </div>
+</body>
+</html>
+
 
 
 <div align="center">
