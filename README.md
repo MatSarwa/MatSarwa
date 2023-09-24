@@ -13,7 +13,7 @@
   </p>
   <p>
 
- <a href="https://matsarwa.github.io" style="text-decoration: underline;">Visit My Portfolio</a>
+ <a href="https://matsarwa.github.io" style="text-decoration: none;">Explore My Projects on GitHub</a>
 
 
 
