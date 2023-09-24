@@ -12,9 +12,12 @@
     📚 Committed to lifelong learning and growth
   </p>
   <p>
+  <p>Check out my projects on GitHub:</p>
+<div>
   <a href="https://matsarwa.github.io" style="display: inline-block; padding: 10px 20px; background-color: #ffbb33; color: #ffffff; text-decoration: none; font-weight: bold; border-radius: 5px;" target="_blank">
-  <h2>Explore My Projects on GitHub</h2>
-</a>
+    Explore My Projects on GitHub
+  </a>
+</div>
 
 
   </p>
