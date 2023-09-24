@@ -13,7 +13,8 @@
   </p>
   <p>
 
- <a href="https://matsarwa.github.io" style="display: inline-block; padding: 10px 20px; background-color: #ffbb33; color: #ffffff; text-decoration: none; font-weight: bold; border-radius: 5px; background: #ffbb33;" target="_blank">Explore My Projects on GitHub</a>
+ <a href="https://matsarwa.github.io" style="display: inline-block; width: 200px; height: 150px; background-color: #ffbb33; color: #ffffff; text-decoration: none; font-weight: bold; border-radius: 5px; text-align: center; line-height: 150px; box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.3);" target="_blank">Explore My Projects</a>
+
 
 
 
