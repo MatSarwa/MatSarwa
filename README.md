@@ -35,10 +35,10 @@
 <div align="center">
   <h2>Contact Me 📧📱</h2>
   <a href="https://www.linkedin.com/in/mateuszsarwa/" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin" alt="LinkedIn Badge" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge" />
   </a>
   <span>
-    <img src="https://img.shields.io/badge/Email-sarwamateusz%40proton.me-blue?style=flat-square" alt="Email Badge" />
+    <img src="https://img.shields.io/badge/Email-sarwamateusz%40proton.me-red?style=for-the-badge" alt="Email Badge" />
   </span>
 </div>
 
