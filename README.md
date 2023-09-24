@@ -41,7 +41,7 @@
     <img src="https://img.shields.io/badge/Email-sarwamateusz%40proton.me-blue?style=flat-square" alt="Email Badge" />
   </span>
 </div>
----
+
 
 <div align="center">
   <h2>GitHub Stats</h2>
