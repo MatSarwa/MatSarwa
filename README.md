@@ -14,10 +14,8 @@
   <p>
    <a href="https://matsarwa.github.io" style="display: inline-block; padding: 10px 20px; background-color: #ffbb33; color: #ffffff; text-decoration: none; font-weight: bold; border-radius: 5px;" target="_blank">Explore My Projects on GitHub</a>
 
-
   </p>
 </div>
-
 
 
 ---
@@ -30,6 +28,15 @@
     <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
     <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
     <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
+  </p>
+</div>
+---
+
+<div align="center">
+  <h2>🛠️ Contact me</h2>
+  <p align="center">
+    [![Email Badge](https://img.shields.io/badge/Email-your.email%40example.com-blue)](mailto:your.email@example.com)
+    [![LinkedIn](https://img.shields.io/badge/GitHub-YourGitHubUsername-green)](https://github.com/your-github-username)
   </p>
 </div>
 
