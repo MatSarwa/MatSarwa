@@ -12,10 +12,16 @@
     📚 Committed to lifelong learning and growth
   </p>
   <p>
-    <a href="https://matsarwa.github.io" style="font-weight: bold; text-decoration: underline;">Explore My Projects on GitHub</a>
+
+<a href="https://matsarwa.github.io" style="text-decoration: none;"> Explore My Projects on GitHub</a>
+ 
+
+
+
+
+
   </p>
 </div>
-
 
 
 ---
@@ -31,7 +37,23 @@
   </p>
 </div>
 
----
+<div align="center">
+    <h2>Contact Me 📧📱</h2>
+    <a href="https://www.linkedin.com/in/mateuszsarwa/" style="text-decoration: none;">
+        <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge" />
+    </a>
+    <a href="mailto:sarwamateusz@proton.me" style="text-decoration: none;">
+        <img src="https://img.shields.io/badge/Email-Contact%20Me-blue?style=for-the-badge" alt="Email Banner" />
+    </a>
+</div>
+
+
+
+
+
+
+
+
 
 <div align="center">
   <h2>GitHub Stats</h2>
