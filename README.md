@@ -35,7 +35,8 @@
         <h2>Contact Me 📧📱</h2>
         <a href="https://www.linkedin.com/in/mateuszsarwa/" style="text-decoration: none;">
             <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge" />
-        [![Email Banner](https://your-image-url.com/email-banner.png)](mailto:sarwamateusz@proton.me)
+        [![Email Banner](https://img.shields.io/badge/Email-Contact%20Me-blue?style=for-the-badge)](mailto:sarwamateusz@proton.me)
+
         
 </div>
 
