@@ -13,9 +13,10 @@
   </p>
   <p>
 
-<a href="https://matsarwa.github.io" style="display: inline-block; padding: 10px 20px; background-color: #ffbb33; color: #ffffff; text-decoration: none; font-weight: bold; border-radius: 5px;" target="_blank">
-  <h2>Explore My Projects on GitHub</h2>
-</a>
+## [My Website](https://matsarwa.github.io)
+
+### Explore My Projects on GitHub
+
 
 
 
