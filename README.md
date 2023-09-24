@@ -34,12 +34,12 @@
 
 <div align="center">
   <h2>Contact Me 📧📱</h2>
-  <a href="mailto:sarwamateusz@proton.me">
-    <img src="https://img.shields.io/badge/Email-sarwamateusz%40proton.me-blue" alt="Email Badge" />
+  <a href="https://www.linkedin.com/in/mateuszsarwa/" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin" alt="LinkedIn Badge" />
   </a>
-  <a href="https://www.linkedin.com/in/mateuszsarwa/">
-    <img src="https://img.shields.io/badge/LinkedIn-YourLinkedInProfile-blue" alt="LinkedIn Badge" />
-  </a>
+  <span>
+    <img src="https://img.shields.io/badge/Email-sarwamateusz%40proton.me-blue?style=flat-square" alt="Email Badge" />
+  </span>
 </div>
 ---
 
