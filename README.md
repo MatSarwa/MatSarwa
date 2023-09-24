@@ -13,9 +13,8 @@
   </p>
   <p>
 
-<a href="https://matsarwa.github.io" style="text-decoration: none;">
-  [![Explore My Projects on GitHub](https://img.shields.io/badge/Explore%20My%20Projects%20on%20GitHub-orange)](https://matsarwa.github.io)
-</a>
+<a href="https://matsarwa.github.io" style="text-decoration: none;"> Explore My Projects on GitHub</a>
+ 
 
 
 
