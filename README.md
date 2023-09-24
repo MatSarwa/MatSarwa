@@ -1,4 +1,4 @@
-![MatSarwa's GitHub Banner](https://github.com/MatSarwa/MatSarwa/raw/main/banner.avi)
+![MatSarwa's GitHub Banner](https://github.com/MatSarwa/MatSarwa/raw/main/banner.avif)
 
 ---
 
