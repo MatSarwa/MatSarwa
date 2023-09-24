@@ -31,27 +31,13 @@
   </p>
 </div>
 
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Contact Me</title>
-</head>
-<body>
-    <div align="center">
+<div align="center">
         <h2>Contact Me 📧📱</h2>
         <a href="https://www.linkedin.com/in/mateuszsarwa/" style="text-decoration: none;">
             <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge" />
-        </a>
-        <span id="email">
-            <span onclick="copyToClipboard('sarwamateusz@proton.me')" style="cursor: pointer;">sarwamateusz@proton.me</span>
-            <span id="copyStatus" style="display: none;"> (Copied!)</span>
-        </span>
-    </div>
-</body>
-</html>
+        
+</div>
+
 
 
 
