@@ -14,7 +14,7 @@
   <p>
 
  <a href="https://matsarwa.github.io" style="text-decoration: none;">
-    <img src="[https://via.placeholder.com/80x80" alt="Portfolio Image" style="max-width: 80px; max-height: 80px; margin: 0 auto; display: block;](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)">
+   
 
 
 
