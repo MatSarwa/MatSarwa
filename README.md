@@ -34,7 +34,7 @@
 
 <div align="center">
   <h2>Contact Me 📧📱</h2>
-  <a href="mailto:your.email@example.com">
+  <a href="sarwamateusz@proton.me">
     <img src="https://img.shields.io/badge/Email-your.email%40example.com-blue" alt="Email Badge" />
   </a>
   <a href="https://www.linkedin.com/in/your-linkedin-profile">
