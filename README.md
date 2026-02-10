@@ -1,11 +1,18 @@
 # Mateusz Sarwa
 
-Computer Science graduate, Silesian University of Technology
+**Computer Science graduate** | Silesian University of Technology
 
-## Tech
+---
 
-JavaScript, Node.js, React, Java, Python, C++, PostgreSQL, Git
+### Tech
 
-## Projects
+`JavaScript` `Node.js` `React` `Java` `Python` `C++` `PostgreSQL` `Git`
 
-- [Reference Manager](https://github.com/MatSarwa/bibliographic-management-system) – bibliography tool with team collaboration (Node.js, React, PostgreSQL)
+---
+
+### Projects
+
+**[Reference Manager](https://github.com/MatSarwa/bibliographic-management-system)**  
+Bibliography tool with team collaboration features. Built with Node.js, React, and PostgreSQL.
+
+---
