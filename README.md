@@ -1,6 +1,3 @@
-![MatSarwa's GitHub Banner](https://github.com/MatSarwa/MatSarwa/raw/main/banner.png)
-
----
 
 <div align="center">
   <h1>Hi there 👋 My name is Mateusz</h1>
