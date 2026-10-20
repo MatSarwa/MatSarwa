@@ -6,7 +6,7 @@
 
 ### Tech
 
-`JavaScript` `Node.js` `React` `Java` `Python` `C++` `PostgreSQL` `Git`
+`JavaScript` `Node.js` `React` `Java` `PostgreSQL` `Git`
 
 ---
 
